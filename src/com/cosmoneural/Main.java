@@ -1,4 +1,4 @@
-package com.company;
+package com.cosmoneural;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;

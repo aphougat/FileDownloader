@@ -1,4 +1,4 @@
-package com.company;
+package com.cosmoneural;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
