@@ -9,7 +9,7 @@ import java.nio.channels.ReadableByteChannel;
 
 public class Task implements Runnable{
 
-    private int number;
+    private final int number;
 
     public Task(int number) {
         this.number = number;

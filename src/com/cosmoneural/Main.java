@@ -11,7 +11,7 @@ public class Main {
         for(int i=100000; i <= 150000; i++)
         {
             Task task = new Task(i);
-            executor.execute(task::run);
+            executor.execute(task);
         }
     }
 }
